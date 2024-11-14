@@ -1,0 +1,38 @@
+/* .User-home{
+    background-color: #ffffff;
+    width: 60vw;
+    height: 78vh;
+    margin-top: -80vh;
+    border-radius: 30px;    
+    color: black;
+    margin-left: 30vw;
+    border: 1px solid #04b4e0;
+ 
+    box-shadow: 3px 3px 5px red, -3px -3px 5px blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+} */
+.User-NT{
+    width: 40vw;
+    height: auto;
+margin-top: -58vh;
+margin-left:40vw;
+    
+}
+.User-Name-home{
+
+
+    
+    font-size: 4rem;
+    text-align: center;
+    
+}
+.User-Title-home{
+text-align: center;
+font-size: 2rem;
+font-weight: 300;
+margin-top: -7vh;
+color: rgb(141, 138, 138);
+}

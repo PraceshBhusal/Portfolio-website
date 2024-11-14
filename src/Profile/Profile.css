@@ -1,0 +1,100 @@
+.Profile-PP {
+    background: #04b4e0;
+    height: 78vh;
+    width: 26vw;
+    margin-left: 2vw;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+}
+
+.User-PP {
+    background: rgb(134, 134, 134);
+    border-radius: 100px;
+    width: 12vw;
+    height: 12vw;
+    margin-top: 7vh;
+ margin-left: 7.4vw;
+    object-fit: cover; 
+}
+
+.User-ID {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.User-Name {
+    width: 25vw;
+    font-size: 2.4rem;
+    margin-top: -0.4vh;
+}
+
+
+
+.User-title {
+    margin-top: -4vh;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.User-Social-Media {
+        height: 8vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 23vw;
+        height: 8vh;
+        border-radius: 8px;
+        margin-top: -2vh;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-icon {
+  font-size: 1.5rem;
+
+    margin: 0 8px; /* Space between icons */
+    cursor: pointer;
+  
+}
+.social-icon:hover{
+    background-color: rgb(23, 150, 192);
+    border-radius: 20px;
+
+}
+
+.User-CVbtn {
+    background: #04b4e0;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+    margin-top: 4vh;
+    border: 2px solid white;
+    border-radius: 30px;
+    font-size: 1rem;
+    color: white;
+    width: 12vw;
+    height: 8vh;
+    font-weight: 450;
+   
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   margin-left: 8vw;
+ 
+}
+
+.User-CVbtn:hover {
+    background: white;
+    color: #04b4e0;
+}
+
+.User-Copyright {
+    font-size: 0.8rem;
+    font-weight: 400;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 5vh;
+}

@@ -1,0 +1,82 @@
+.Contact-Main{
+
+    position: absolute;
+    width:59vw;
+    height: 72vh;
+    top: 14vh;
+    left: 30vw;
+    border-radius: 20px;
+
+
+}
+.Contact-Main-h1{
+    width:15vw;
+    margin-left: 6vw;
+    font-weight: 500;
+    color:black;
+}
+
+
+.Contact-Main-Form{
+
+    width:35vw;
+    height:70vh;
+float: right;
+border-radius:20px ;
+margin-top: -16vh;
+margin-right: 0vw;
+
+
+}
+.Contact-Main-FieldGroup{
+
+width: 15vw;
+height: 35vh;
+padding: 4vh;
+margin-top: -4vh ;
+
+
+
+}
+.Con-input{
+    width: 13vw;
+    padding:2vh;
+    height: 3vh;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    margin-bottom: 4vh;
+    border: 2px solid rgb(160, 160, 160);
+}
+.Con-textarea{
+
+    float: right;  
+      font-size: 1rem;
+    margin-top: -39vh;
+ ;
+
+}
+
+
+.Contact-Send-btn {
+    background:white;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+    margin-top: 4vh;
+    border: 2px solid  #04b4e0;
+    border-radius: 30px;
+    font-size: 1rem;
+    color: black;
+    width: 12vw;
+    height: 8vh;
+    font-weight: 450;
+   margin-top: -4vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   margin-left: 12vw;
+ 
+}
+
+.Contact-Send-btn:hover {
+    background:  #04b4e0;
+    color: white;
+}

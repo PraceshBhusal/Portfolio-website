@@ -1,0 +1,33 @@
+.About-Me-Main{
+    position: absolute;
+    width:58vw;
+    top: 12vh;
+    left: 30vw;
+    border-radius: 20px;
+    height: 73vh;
+    padding: 10px;
+overflow-y:auto;
+}
+
+.About-Me-Main-info{
+    display: flex;
+    width: 98%;
+    height: 70%;
+    margin-top: -4vh;
+    border-radius: 20px;
+
+}
+.About-Me-Abtme{
+padding: 10px;
+width: 45%;
+border-radius: 20px;
+margin-left: 3vw;
+
+
+}
+.About-Me-Detail{
+width: 45%;
+ border-radius: 20px;
+ margin-left: 1vw;
+ 
+}
