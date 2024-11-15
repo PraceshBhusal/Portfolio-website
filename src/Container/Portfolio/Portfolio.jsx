@@ -1,6 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
-import projectImage from "../../assets/Media/project.jpg"; // Adjust the path according to your file structure
+import projectImage from "../../assets/Media/project.jpg"; 
 import { IoDocumentTextOutline } from "react-icons/io5";
 
 const Portfolio = () => {
